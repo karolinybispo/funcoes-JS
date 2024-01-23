@@ -17,7 +17,9 @@ teste();
                          console.log(retorno(400));//um forma de mostrar ao usuario
                            let soma = 20 + retorno(10); // quero somar um numero com a conta ja pronta ja funcao
                             console.log(soma);    
-//FUNCAO PRINCIPAL
+
+
+                            //FUNCAO PRINCIPAL
 //n preciso necessariamnete utilzar a funcao main como a principal ou usa-la obrigatoriamnete p escrever o codigo 
 function main(){
     console.log("funcao main");
